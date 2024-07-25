@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "chutKAshikhari2",
+    "username": "chutKApyasa",
     "password": "",
     "type": "mojang"
   },
@@ -30,12 +30,12 @@
     },
 
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
+        "I'm a regularplayer",
         "My owner is Lamgerr",
         "I want be alone"
       ]
