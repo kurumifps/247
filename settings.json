@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "chutKAshikhari",
+    "username": "chut",
     "password": "",
     "type": "mojang"
   },
@@ -8,7 +8,7 @@
   "server": {
     "ip": "AshutoshdoKy.aternos.me",
     "port": 25000,
-    "version": "1.12.1"
+    "version": "1.21"
   },
   
   "position": {
